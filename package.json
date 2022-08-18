@@ -1,0 +1,12 @@
+{
+  "name": "hotel-web-api",
+  "version": "1.0.0",
+  "description": "TP Front  nodeJS Diginamic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "Prouchet vincent",
+  "license": "ISC"
+}
